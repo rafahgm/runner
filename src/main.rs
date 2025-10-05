@@ -5,6 +5,7 @@
 // mod tasks;
 mod config;
 mod errors;
+mod params;
 mod runner;
 mod registry;
 mod task;
